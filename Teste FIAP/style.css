@@ -16,7 +16,7 @@ body{
 position: absolute;
 width: 100%;
 height: 1088px;
-background: url("/images/header.png");
+background: url("./images/header.png");
 }
 
 .container-xxl{
